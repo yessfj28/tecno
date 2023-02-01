@@ -1,0 +1,93 @@
+C:\Users\ALEXIS CHOLOTIO\Documents\Visual Studio 2015\Projects\Visual Basic Ejercicios de Clases\Login\Login\bin\Debug\Login.exe.config
+C:\Users\ALEXIS CHOLOTIO\Documents\Visual Studio 2015\Projects\Visual Basic Ejercicios de Clases\Login\Login\bin\Debug\Login.exe
+C:\Users\ALEXIS CHOLOTIO\Documents\Visual Studio 2015\Projects\Visual Basic Ejercicios de Clases\Login\Login\bin\Debug\Login.pdb
+C:\Users\ALEXIS CHOLOTIO\Documents\Visual Studio 2015\Projects\Visual Basic Ejercicios de Clases\Login\Login\bin\Debug\Login.xml
+C:\Users\ALEXIS CHOLOTIO\Documents\Visual Studio 2015\Projects\Visual Basic Ejercicios de Clases\Login\Login\bin\Debug\Datos.dll
+C:\Users\ALEXIS CHOLOTIO\Documents\Visual Studio 2015\Projects\Visual Basic Ejercicios de Clases\Login\Login\bin\Debug\Entidad.dll
+C:\Users\ALEXIS CHOLOTIO\Documents\Visual Studio 2015\Projects\Visual Basic Ejercicios de Clases\Login\Login\bin\Debug\Guna.UI.dll
+C:\Users\ALEXIS CHOLOTIO\Documents\Visual Studio 2015\Projects\Visual Basic Ejercicios de Clases\Login\Login\bin\Debug\Datos.pdb
+C:\Users\ALEXIS CHOLOTIO\Documents\Visual Studio 2015\Projects\Visual Basic Ejercicios de Clases\Login\Login\bin\Debug\Datos.xml
+C:\Users\ALEXIS CHOLOTIO\Documents\Visual Studio 2015\Projects\Visual Basic Ejercicios de Clases\Login\Login\bin\Debug\Entidad.pdb
+C:\Users\ALEXIS CHOLOTIO\Documents\Visual Studio 2015\Projects\Visual Basic Ejercicios de Clases\Login\Login\bin\Debug\Entidad.xml
+C:\Users\ALEXIS CHOLOTIO\Documents\Visual Studio 2015\Projects\Visual Basic Ejercicios de Clases\Login\Login\obj\Debug\Login.vbprojResolveAssemblyReference.cache
+C:\Users\ALEXIS CHOLOTIO\Documents\Visual Studio 2015\Projects\Visual Basic Ejercicios de Clases\Login\Login\obj\Debug\Login.Form1.resources
+C:\Users\ALEXIS CHOLOTIO\Documents\Visual Studio 2015\Projects\Visual Basic Ejercicios de Clases\Login\Login\obj\Debug\Login.Resources.resources
+C:\Users\ALEXIS CHOLOTIO\Documents\Visual Studio 2015\Projects\Visual Basic Ejercicios de Clases\Login\Login\obj\Debug\Login.vbproj.GenerateResource.Cache
+C:\Users\ALEXIS CHOLOTIO\Documents\Visual Studio 2015\Projects\Visual Basic Ejercicios de Clases\Login\Login\obj\Debug\Login.exe
+C:\Users\ALEXIS CHOLOTIO\Documents\Visual Studio 2015\Projects\Visual Basic Ejercicios de Clases\Login\Login\obj\Debug\Login.xml
+C:\Users\ALEXIS CHOLOTIO\Documents\Visual Studio 2015\Projects\Visual Basic Ejercicios de Clases\Login\Login\obj\Debug\Login.pdb
+C:\Users\ALEXIS CHOLOTIO\Documents\Visual Studio 2015\Projects\Visual Basic Ejercicios de Clases\Login\Login\obj\Debug\Login.Administrador.resources
+C:\Users\Usuario\Documents\Login\Login\bin\Debug\Login.exe.config
+C:\Users\Usuario\Documents\Login\Login\obj\Debug\Login.exe
+C:\Users\Usuario\Documents\Login\Login\obj\Debug\Login.xml
+C:\Users\Usuario\Documents\Login\Login\obj\Debug\Login.pdb
+C:\Users\Usuario\Documents\Login\Login\obj\Debug\Login.vbprojResolveAssemblyReference.cache
+C:\Users\Usuario\Documents\Login\Login\obj\Debug\Login.Form1.resources
+C:\Users\Usuario\Documents\Login\Login\obj\Debug\Login.Administrador.resources
+C:\Users\Usuario\Documents\Login\Login\obj\Debug\Login.Resources.resources
+C:\Users\Usuario\Documents\Login\Login\obj\Debug\Login.vbproj.GenerateResource.Cache
+C:\Users\Usuario\Documents\Login\Login\bin\Debug\Login.exe
+C:\Users\Usuario\Documents\Login\Login\bin\Debug\Login.pdb
+C:\Users\Usuario\Documents\Login\Login\bin\Debug\Login.xml
+C:\Users\Usuario\Documents\Login\Login\bin\Debug\Datos.dll
+C:\Users\Usuario\Documents\Login\Login\bin\Debug\Entidad.dll
+C:\Users\Usuario\Documents\Login\Login\bin\Debug\Datos.pdb
+C:\Users\Usuario\Documents\Login\Login\bin\Debug\Datos.xml
+C:\Users\Usuario\Documents\Login\Login\bin\Debug\Entidad.pdb
+C:\Users\Usuario\Documents\Login\Login\bin\Debug\Entidad.xml
+C:\Users\Usuario\Desktop\Login\Login\bin\Debug\Login.exe.config
+C:\Users\Usuario\Desktop\Login\Login\obj\Debug\Login.exe
+C:\Users\Usuario\Desktop\Login\Login\obj\Debug\Login.xml
+C:\Users\Usuario\Desktop\Login\Login\obj\Debug\Login.pdb
+C:\Users\Usuario\Desktop\Login\Login\bin\Debug\Login.exe
+C:\Users\Usuario\Desktop\Login\Login\bin\Debug\Login.pdb
+C:\Users\Usuario\Desktop\Login\Login\bin\Debug\Login.xml
+C:\Users\Usuario\Desktop\Login\Login\bin\Debug\Datos.dll
+C:\Users\Usuario\Desktop\Login\Login\bin\Debug\Entidad.dll
+C:\Users\Usuario\Desktop\Login\Login\bin\Debug\Datos.pdb
+C:\Users\Usuario\Desktop\Login\Login\bin\Debug\Datos.xml
+C:\Users\Usuario\Desktop\Login\Login\bin\Debug\Entidad.pdb
+C:\Users\Usuario\Desktop\Login\Login\bin\Debug\Entidad.xml
+C:\Users\Usuario\Desktop\Login\Login\obj\Debug\Login.vbprojResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\Login\Login\obj\Debug\Login.Form1.resources
+C:\Users\Usuario\Desktop\Login\Login\obj\Debug\Login.Administrador.resources
+C:\Users\Usuario\Desktop\Login\Login\obj\Debug\Login.Resources.resources
+C:\Users\Usuario\Desktop\Login\Login\obj\Debug\Login.vbproj.GenerateResource.Cache
+E:\Login\Login\bin\Debug\Login.exe.config
+E:\Login\Login\obj\Debug\Login.exe
+E:\Login\Login\obj\Debug\Login.xml
+E:\Login\Login\obj\Debug\Login.pdb
+F:\Login\Login\bin\Debug\Login.exe.config
+F:\Login\Login\obj\Debug\Login.exe
+F:\Login\Login\obj\Debug\Login.xml
+F:\Login\Login\obj\Debug\Login.pdb
+F:\Login\Login\bin\Debug\Login.exe
+F:\Login\Login\bin\Debug\Login.pdb
+F:\Login\Login\bin\Debug\Login.xml
+F:\Login\Login\bin\Debug\Datos.dll
+F:\Login\Login\bin\Debug\Entidad.dll
+F:\Login\Login\bin\Debug\Datos.pdb
+F:\Login\Login\bin\Debug\Datos.xml
+F:\Login\Login\bin\Debug\Entidad.pdb
+F:\Login\Login\bin\Debug\Entidad.xml
+F:\Login\Login\obj\Debug\Login.vbprojResolveAssemblyReference.cache
+F:\Login\Login\obj\Debug\Login.Form1.resources
+F:\Login\Login\obj\Debug\Login.Administrador.resources
+F:\Login\Login\obj\Debug\Login.Resources.resources
+F:\Login\Login\obj\Debug\Login.vbproj.GenerateResource.Cache
+E:\Login\Login\bin\Debug\Login.exe
+E:\Login\Login\bin\Debug\Login.pdb
+E:\Login\Login\bin\Debug\Login.xml
+E:\Login\Login\bin\Debug\Datos.dll
+E:\Login\Login\bin\Debug\Entidad.dll
+E:\Login\Login\bin\Debug\Datos.pdb
+E:\Login\Login\bin\Debug\Datos.xml
+E:\Login\Login\bin\Debug\Entidad.pdb
+E:\Login\Login\bin\Debug\Entidad.xml
+E:\Login\Login\obj\Debug\Login.vbprojResolveAssemblyReference.cache
+E:\Login\Login\obj\Debug\Login.Form1.resources
+E:\Login\Login\obj\Debug\Login.Administrador.resources
+E:\Login\Login\obj\Debug\Login.Resources.resources
+E:\Login\Login\obj\Debug\Login.vbproj.GenerateResource.Cache
+E:\Login\Login\obj\Debug\Login.Cliente.resources
+E:\Login\Login\obj\Debug\Login.Secretaria.resources

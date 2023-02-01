@@ -1,0 +1,36 @@
+C:\Users\ALEXIS CHOLOTIO\Documents\Visual Studio 2015\Projects\Visual Basic Ejercicios de Clases\Login\Entidad\bin\Debug\Entidad.dll
+C:\Users\ALEXIS CHOLOTIO\Documents\Visual Studio 2015\Projects\Visual Basic Ejercicios de Clases\Login\Entidad\bin\Debug\Entidad.pdb
+C:\Users\ALEXIS CHOLOTIO\Documents\Visual Studio 2015\Projects\Visual Basic Ejercicios de Clases\Login\Entidad\bin\Debug\Entidad.xml
+C:\Users\ALEXIS CHOLOTIO\Documents\Visual Studio 2015\Projects\Visual Basic Ejercicios de Clases\Login\Entidad\obj\Debug\Entidad.vbprojResolveAssemblyReference.cache
+C:\Users\ALEXIS CHOLOTIO\Documents\Visual Studio 2015\Projects\Visual Basic Ejercicios de Clases\Login\Entidad\obj\Debug\Entidad.Resources.resources
+C:\Users\ALEXIS CHOLOTIO\Documents\Visual Studio 2015\Projects\Visual Basic Ejercicios de Clases\Login\Entidad\obj\Debug\Entidad.vbproj.GenerateResource.Cache
+C:\Users\ALEXIS CHOLOTIO\Documents\Visual Studio 2015\Projects\Visual Basic Ejercicios de Clases\Login\Entidad\obj\Debug\Entidad.dll
+C:\Users\ALEXIS CHOLOTIO\Documents\Visual Studio 2015\Projects\Visual Basic Ejercicios de Clases\Login\Entidad\obj\Debug\Entidad.xml
+C:\Users\ALEXIS CHOLOTIO\Documents\Visual Studio 2015\Projects\Visual Basic Ejercicios de Clases\Login\Entidad\obj\Debug\Entidad.pdb
+C:\Users\Usuario\Documents\Login\Entidad\bin\Debug\Entidad.dll
+C:\Users\Usuario\Documents\Login\Entidad\bin\Debug\Entidad.pdb
+C:\Users\Usuario\Documents\Login\Entidad\bin\Debug\Entidad.xml
+C:\Users\Usuario\Documents\Login\Entidad\obj\Debug\Entidad.vbprojResolveAssemblyReference.cache
+C:\Users\Usuario\Documents\Login\Entidad\obj\Debug\Entidad.Resources.resources
+C:\Users\Usuario\Documents\Login\Entidad\obj\Debug\Entidad.vbproj.GenerateResource.Cache
+C:\Users\Usuario\Documents\Login\Entidad\obj\Debug\Entidad.dll
+C:\Users\Usuario\Documents\Login\Entidad\obj\Debug\Entidad.xml
+C:\Users\Usuario\Documents\Login\Entidad\obj\Debug\Entidad.pdb
+C:\Users\Usuario\Desktop\Login\Entidad\bin\Debug\Entidad.dll
+C:\Users\Usuario\Desktop\Login\Entidad\bin\Debug\Entidad.pdb
+C:\Users\Usuario\Desktop\Login\Entidad\bin\Debug\Entidad.xml
+C:\Users\Usuario\Desktop\Login\Entidad\obj\Debug\Entidad.vbprojResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\Login\Entidad\obj\Debug\Entidad.Resources.resources
+C:\Users\Usuario\Desktop\Login\Entidad\obj\Debug\Entidad.vbproj.GenerateResource.Cache
+C:\Users\Usuario\Desktop\Login\Entidad\obj\Debug\Entidad.dll
+C:\Users\Usuario\Desktop\Login\Entidad\obj\Debug\Entidad.xml
+C:\Users\Usuario\Desktop\Login\Entidad\obj\Debug\Entidad.pdb
+F:\Login\Entidad\bin\Debug\Entidad.dll
+F:\Login\Entidad\bin\Debug\Entidad.pdb
+F:\Login\Entidad\bin\Debug\Entidad.xml
+F:\Login\Entidad\obj\Debug\Entidad.vbprojResolveAssemblyReference.cache
+F:\Login\Entidad\obj\Debug\Entidad.Resources.resources
+F:\Login\Entidad\obj\Debug\Entidad.vbproj.GenerateResource.Cache
+F:\Login\Entidad\obj\Debug\Entidad.dll
+F:\Login\Entidad\obj\Debug\Entidad.xml
+F:\Login\Entidad\obj\Debug\Entidad.pdb

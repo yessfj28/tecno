@@ -1,0 +1,65 @@
+C:\Users\ALEXIS CHOLOTIO\Documents\Visual Studio 2015\Projects\Visual Basic Ejercicios de Clases\Login\Datos\bin\Debug\Datos.dll.config
+C:\Users\ALEXIS CHOLOTIO\Documents\Visual Studio 2015\Projects\Visual Basic Ejercicios de Clases\Login\Datos\bin\Debug\Datos.dll
+C:\Users\ALEXIS CHOLOTIO\Documents\Visual Studio 2015\Projects\Visual Basic Ejercicios de Clases\Login\Datos\bin\Debug\Datos.pdb
+C:\Users\ALEXIS CHOLOTIO\Documents\Visual Studio 2015\Projects\Visual Basic Ejercicios de Clases\Login\Datos\bin\Debug\Datos.xml
+C:\Users\ALEXIS CHOLOTIO\Documents\Visual Studio 2015\Projects\Visual Basic Ejercicios de Clases\Login\Datos\bin\Debug\Entidad.dll
+C:\Users\ALEXIS CHOLOTIO\Documents\Visual Studio 2015\Projects\Visual Basic Ejercicios de Clases\Login\Datos\bin\Debug\Entidad.pdb
+C:\Users\ALEXIS CHOLOTIO\Documents\Visual Studio 2015\Projects\Visual Basic Ejercicios de Clases\Login\Datos\bin\Debug\Entidad.xml
+C:\Users\ALEXIS CHOLOTIO\Documents\Visual Studio 2015\Projects\Visual Basic Ejercicios de Clases\Login\Datos\obj\Debug\Datos.vbprojResolveAssemblyReference.cache
+C:\Users\ALEXIS CHOLOTIO\Documents\Visual Studio 2015\Projects\Visual Basic Ejercicios de Clases\Login\Datos\obj\Debug\Datos.Resources.resources
+C:\Users\ALEXIS CHOLOTIO\Documents\Visual Studio 2015\Projects\Visual Basic Ejercicios de Clases\Login\Datos\obj\Debug\Datos.vbproj.GenerateResource.Cache
+C:\Users\ALEXIS CHOLOTIO\Documents\Visual Studio 2015\Projects\Visual Basic Ejercicios de Clases\Login\Datos\obj\Debug\Datos.dll
+C:\Users\ALEXIS CHOLOTIO\Documents\Visual Studio 2015\Projects\Visual Basic Ejercicios de Clases\Login\Datos\obj\Debug\Datos.xml
+C:\Users\ALEXIS CHOLOTIO\Documents\Visual Studio 2015\Projects\Visual Basic Ejercicios de Clases\Login\Datos\obj\Debug\Datos.pdb
+C:\Users\Usuario\Documents\Login\Datos\bin\Debug\Datos.dll.config
+C:\Users\Usuario\Documents\Login\Datos\bin\Debug\Datos.dll
+C:\Users\Usuario\Documents\Login\Datos\bin\Debug\Datos.pdb
+C:\Users\Usuario\Documents\Login\Datos\bin\Debug\Datos.xml
+C:\Users\Usuario\Documents\Login\Datos\bin\Debug\Entidad.dll
+C:\Users\Usuario\Documents\Login\Datos\bin\Debug\Entidad.pdb
+C:\Users\Usuario\Documents\Login\Datos\bin\Debug\Entidad.xml
+C:\Users\Usuario\Documents\Login\Datos\obj\Debug\Datos.vbprojResolveAssemblyReference.cache
+C:\Users\Usuario\Documents\Login\Datos\obj\Debug\Datos.Resources.resources
+C:\Users\Usuario\Documents\Login\Datos\obj\Debug\Datos.vbproj.GenerateResource.Cache
+C:\Users\Usuario\Documents\Login\Datos\obj\Debug\Datos.dll
+C:\Users\Usuario\Documents\Login\Datos\obj\Debug\Datos.xml
+C:\Users\Usuario\Documents\Login\Datos\obj\Debug\Datos.pdb
+C:\Users\Usuario\Desktop\Login\Datos\bin\Debug\Datos.dll.config
+C:\Users\Usuario\Desktop\Login\Datos\bin\Debug\Datos.dll
+C:\Users\Usuario\Desktop\Login\Datos\bin\Debug\Datos.pdb
+C:\Users\Usuario\Desktop\Login\Datos\bin\Debug\Datos.xml
+C:\Users\Usuario\Desktop\Login\Datos\bin\Debug\Entidad.dll
+C:\Users\Usuario\Desktop\Login\Datos\bin\Debug\Entidad.pdb
+C:\Users\Usuario\Desktop\Login\Datos\bin\Debug\Entidad.xml
+C:\Users\Usuario\Desktop\Login\Datos\obj\Debug\Datos.vbprojResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\Login\Datos\obj\Debug\Datos.Resources.resources
+C:\Users\Usuario\Desktop\Login\Datos\obj\Debug\Datos.vbproj.GenerateResource.Cache
+C:\Users\Usuario\Desktop\Login\Datos\obj\Debug\Datos.dll
+C:\Users\Usuario\Desktop\Login\Datos\obj\Debug\Datos.xml
+C:\Users\Usuario\Desktop\Login\Datos\obj\Debug\Datos.pdb
+F:\Login\Datos\bin\Debug\Datos.dll.config
+F:\Login\Datos\bin\Debug\Datos.dll
+F:\Login\Datos\bin\Debug\Datos.pdb
+F:\Login\Datos\bin\Debug\Datos.xml
+F:\Login\Datos\bin\Debug\Entidad.dll
+F:\Login\Datos\bin\Debug\Entidad.pdb
+F:\Login\Datos\bin\Debug\Entidad.xml
+F:\Login\Datos\obj\Debug\Datos.vbprojResolveAssemblyReference.cache
+F:\Login\Datos\obj\Debug\Datos.Resources.resources
+F:\Login\Datos\obj\Debug\Datos.vbproj.GenerateResource.Cache
+F:\Login\Datos\obj\Debug\Datos.dll
+F:\Login\Datos\obj\Debug\Datos.xml
+F:\Login\Datos\obj\Debug\Datos.pdb
+E:\Login\Datos\bin\Debug\Datos.dll.config
+E:\Login\Datos\bin\Debug\Datos.dll
+E:\Login\Datos\bin\Debug\Datos.pdb
+E:\Login\Datos\bin\Debug\Datos.xml
+E:\Login\Datos\bin\Debug\Entidad.dll
+E:\Login\Datos\bin\Debug\Entidad.pdb
+E:\Login\Datos\bin\Debug\Entidad.xml
+E:\Login\Datos\obj\Debug\Datos.vbprojResolveAssemblyReference.cache
+E:\Login\Datos\obj\Debug\Datos.Resources.resources
+E:\Login\Datos\obj\Debug\Datos.vbproj.GenerateResource.Cache
+E:\Login\Datos\obj\Debug\Datos.dll
+E:\Login\Datos\obj\Debug\Datos.xml
+E:\Login\Datos\obj\Debug\Datos.pdb
